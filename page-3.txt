@@ -3,3 +3,5 @@ This is page 3.
 Modifying page for copy 3.
 
 Feat 3 Commit 1
+
+Feat 3 Commit 2
