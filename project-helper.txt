@@ -4,3 +4,10 @@
 2. Cleaning
 3. Spray Color
 4. Quality
+
+### Seat production tools
+
+1. Building
+2. Cleaning
+3. Spray Color
+4. Quality
