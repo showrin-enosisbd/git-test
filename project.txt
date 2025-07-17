@@ -1,3 +1,11 @@
 Project Name: Tesla 101
 Project Owner: John Doe
 Batch: 12
+
+# Tire production
+
+1. R&D
+2. Invent Procedure
+3. Production
+4. Helper Tools
+5. Marketing
