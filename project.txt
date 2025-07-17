@@ -1,1 +1,3 @@
-Starting a project
+Project Name: Tesla 101
+Project Owner: John Doe
+Batch: 12
