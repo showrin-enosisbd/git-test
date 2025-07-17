@@ -9,3 +9,11 @@ Batch: 12
 3. Production
 4. Helper Tools
 5. Marketing
+
+# Seat Production
+
+1. R&D
+2. Invent Procedure
+3. Production
+4. Helper Tools
+5. Marketing
